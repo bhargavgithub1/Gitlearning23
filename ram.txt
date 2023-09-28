@@ -1,5 +1,0 @@
-Today i'm learning git in details
-git commands very intresting.
-git learning is good.
-git is very good tool.
-git .12345678
